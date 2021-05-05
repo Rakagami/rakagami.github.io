@@ -31,7 +31,7 @@ twitter_username: rakagami0
 github_username:  rakagami
 
 # Build settings
-theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
 plugins:
     - jekyll-feed
 
