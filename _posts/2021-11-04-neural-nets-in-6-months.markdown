@@ -110,7 +110,7 @@ I am by no means an expert on neural networks yet but this short but fruitful jo
 
 ### Some other stuff
 
-I currently kinda try to get into blogging and stuff, so any feedback is welcome, just contact me at: prak.renatin@tum.de
+I currently kinda try to get into blogging and stuff, so any feedback is welcome, just <a href = "mailto: prak.renatin@tum.de">contact me</a>
 
 [3b1b-vid]: https://www.youtube.com/watch?v=aircAruvnKk
 [tumai]: https://www.tum-ai.com/makeathon.html
