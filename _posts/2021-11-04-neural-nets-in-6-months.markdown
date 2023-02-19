@@ -4,6 +4,7 @@ title:  "Getting into Neural Nets"
 date:   2021-11-04
 visible: true
 categories: jekyll update
+show_comments: true
 ---
 The sound of a topic can make it very menacing. Just try to say _**Neuronal Network**_ out loud...
 
