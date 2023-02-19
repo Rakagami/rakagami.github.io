@@ -11,6 +11,12 @@ url: "rakagami.github.io"
 twitter_username: rakagami0
 github_username:  rakagami
 
+defaults:
+  - scope:
+      path: '_posts'
+    values:
+      permalink: /posts/:title/
+
 # Plugins and Theme related
 remote_theme: abhinavs/moonwalk
 
