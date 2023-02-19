@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec jekyll serve --livereload
+nix-shell --pure --run "jekyll serve --livereload"
