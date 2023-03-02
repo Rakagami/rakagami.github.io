@@ -7,7 +7,7 @@ description: >- # For multiple lines
     image processing, art and many other things.
 
 baseurl: ""
-url: "rakagami.github.io"
+url: "http://rakagami.github.io"
 twitter_username: rakagami0
 github_username:  rakagami
 
